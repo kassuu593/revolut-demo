@@ -2,7 +2,7 @@ I have implemented the 'simple and to the point' API for money transfers between
 
 #### Features:
 As an API user I am able to:
-1) Create new accounts
+1) Create balance new accounts
 2) Make payments, using accountId, linked phone or credit card number
 3) Get account balance history 
 
